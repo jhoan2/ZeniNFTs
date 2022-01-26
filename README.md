@@ -11,7 +11,7 @@ Codebase created with Hardhat and react, exploring NFTs.
 1. Clone the repo
 
 ```sh
-git clone https://github.com/dabit3/full-stack-ethereum.git
+git clone https://github.com/jhoan2/ZeniNFTs.git
 ```
 
 2. Install the dependencies
