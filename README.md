@@ -1,6 +1,8 @@
-<img src='public/website.PNG' width='100' >
+<img src='public/website.PNG' width='700' >
 # ZeniNFTs 
+
 ## A Collection of Unique Hot Dogs Modeled After Zenitsu, The Dachshund. 
+
 Codebase created with Hardhat and react, exploring NFTs.
 
 ## Run locally
