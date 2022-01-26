@@ -1,0 +1,34 @@
+/* Style the header */
+.header {
+    padding: 20px 16px;
+    background-image: url("top.PNG");
+    background-color: rgb(255, 235, 205);
+    width: 100%;
+    height:100px;
+    background-size: cover;
+    background-position: 50% 90%;
+    text-align: center;
+    color:black;
+    font-size: large;
+    transition: top 0.5s ease-in-out;
+    z-index: 1;
+}
+
+/* Page content */
+.content {
+    padding: 16px;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+/* Small devices (portrait tablets and large phones, 768px and down) */
+@media screen and (max-width: 768px ) {
+    h4.headerBody {
+      font-size: 15px;
+    }
+  }

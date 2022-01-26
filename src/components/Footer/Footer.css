@@ -1,0 +1,12 @@
+.footer {
+    padding: 20px 16px;
+    background-image: url("bottom.PNG");
+    background-color: rgb(255, 235, 205);
+    width: 100%;
+    height:100px;
+    background-size: cover;
+    background-position: center top;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
