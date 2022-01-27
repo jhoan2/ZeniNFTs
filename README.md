@@ -5,6 +5,7 @@
 ## A Collection of Unique Hot Dogs Modeled After Zenitsu, The Dachshund. 
 
 Codebase created with Hardhat and react, exploring NFTs.
+zeninfts.netlify.app
 
 ## Run locally
 

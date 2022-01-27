@@ -1,7 +1,7 @@
 import WalletBalance from './WalletBalance';
 import React, { useState, useEffect } from 'react';
 import { ethers } from 'ethers';
-import ZeniNFT from '../artifacts/contracts/MintNft.sol/ZeniNFT.json';
+import ZeniNFT from '../utils/contractABI.json';
 import placeholder from '../img/placeholder.png'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
