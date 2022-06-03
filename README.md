@@ -2,9 +2,14 @@
 
 # ZeniNFTs 
 
-## A Collection of Unique Hot Dogs Modeled After Zenitsu, The Dachshund. 
+A website to mint one of the unique NFTs from the collection ZeniNFTs modeled after Zenitsu, the Dachshund. The smart contract, an ERC721, was published to the rinkeby network. The images were drawn using the MediBang app and the unique images were generated with the hashlips art engine. The images are hosted on Pinata. 
 
-Codebase created with Hardhat and react, exploring NFTs.
+## Technologies 
+- Hardhat
+- React
+- Ethersjs
+- Solidity
+- Bootstrap
 
 https://zeni-nfts.netlify.app/
 
